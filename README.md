@@ -1,1 +1,2 @@
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leticiaamyy/)](https://www.instagram.com/leticiaamyy/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-siramidu/)](https://www.linkedin.com/in/leticia-siramidu/)
